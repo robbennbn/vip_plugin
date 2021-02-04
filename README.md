@@ -34,7 +34,7 @@ Steam: https://steamcommunity.com/id/weenv2/
 
 # VIP Features
 
-VIP GOLD - 
+**VIP GOLD -**
 
 KILL PER HP/HEADSHOT (IF U WANT BY CONFIG FILE/CVAR)
 
@@ -53,7 +53,7 @@ BIG ARMOR, 1 HE, 2 FLASHBANGS and DEAGLE at Round Start !
 Weapon menu startin with 3rd round (contains FAMAS, AK47, M4A1, AWP) !
 
 
-VIP SILVER - 
+**VIP SILVER -** 
 
 KILL PER HP/HEADSHOT (IF U WANT BY CONFIG FILE/CVAR)
 
@@ -65,4 +65,4 @@ BIG ARMOR, 1 HE, 1 FLASHBANG and DEAGLE at Round Start !
 
 Weapon menu startin with 3rd round (contains FAMAS, AK47, M4A1) !
 
-VIP FREE - SAME FEATURES AS SILVER VIP
+**VIP FREE -** SAME FEATURES AS SILVER VIP
