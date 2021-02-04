@@ -14,6 +14,9 @@ You can configure your VIP System from configs/vip_config.cfg
 # Servers
 
 vip_system_elite is for ELITE.LEAGUECS.RO #GeorgeLLLOS-BRAILeaNu
+
 vip_system_cs is for CS.AREA-GAMES.RO #Biban
+
 vip_system_ardeal is for ARDEAL.LEAGUECS.RO #Chowder
+
 vip_system_italia is for ITALIA.AREA-GAMES.RO #DKOne
