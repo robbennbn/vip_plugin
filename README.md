@@ -30,6 +30,7 @@ vip_system_italia is for ITALIA.AREA-GAMES.RO #DKOne
 # Contact
 
 Discord: Ween#6833
+
 Steam: https://steamcommunity.com/id/weenv2/
 
 # Commands
