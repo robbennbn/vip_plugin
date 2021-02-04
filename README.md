@@ -13,19 +13,21 @@ You can configure your VIP System from configs/vip_config.cfg
 
 # Servers
 
-vip_system_elite is for ELITE.LEAGUECS.RO #GeorgeLLLOS-BRAILeaNu
+**vip_system_elite.amxx** is for ELITE.LEAGUECS.RO #GeorgeLLLOS-BRAILeaNu
 
-vip_system_cs is for CS.AREA-GAMES.RO #Biban
+**vip_system_cs is.amxx** for CS.AREA-GAMES.RO #Biban
 
-vip_system_ardeal is for ARDEAL.LEAGUECS.RO #Chowder
+**vip_system_ardeal.amxx** is for ARDEAL.LEAGUECS.RO #Chowder
 
-vip_system_italia is for ITALIA.AREA-GAMES.RO #DKOne
+**vip_system_italia.amxx** is for ITALIA.AREA-GAMES.RO #DKOne
 
 # Updates
 
-1.0 - Creating VIP System
+1.0 - Created VIP System
 
-1.0.1 - Adding Config File
+1.0.1 - Added VIP Features
+
+1.0.2 - Added VIP Config file
 
 # Contact
 
