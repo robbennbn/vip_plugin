@@ -32,6 +32,16 @@ vip_system_italia is for ITALIA.AREA-GAMES.RO #DKOne
 Discord: Ween#6833
 Steam: https://steamcommunity.com/id/weenv2/
 
+# Commands
+
+amx_addvip <nick or #authid> <type of vip>
+  
+amx_removevip <nick or #authid> (Works if the player isn't online too but with Case Sensitive so you have to put the exact nickname)
+
+amx_addmap <map name> (You can "ban" a map where VIP won't work)
+  
+amx_removemap <map name> (You can "unban" a map where VIP will work again)
+
 # VIP Features
 
 **VIP GOLD -**
