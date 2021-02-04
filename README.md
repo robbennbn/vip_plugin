@@ -20,3 +20,8 @@ vip_system_cs is for CS.AREA-GAMES.RO #Biban
 vip_system_ardeal is for ARDEAL.LEAGUECS.RO #Chowder
 
 vip_system_italia is for ITALIA.AREA-GAMES.RO #DKOne
+
+# Updates
+
+1.0 - Creating VIP System
+1.0.1 - Adding Config File
