@@ -29,6 +29,8 @@ You can configure your VIP System from configs/vip_config.cfg
 
 1.0.2 - Added VIP Config file
 
+1.0.3 - Added VIP Remove after X days (ex: if you want to give vip for 1 day or 1 month you can and the vip will be automatically removed after the date)
+
 # Contact
 
 Discord: Ween#6833
@@ -37,7 +39,7 @@ Steam: https://steamcommunity.com/id/weenv2/
 
 # Commands
 
-amx_addvip <nick or #authid> <type of vip>
+amx_addvip <nick or #authid> <type of vip> <days 0 = permanent>
   
 amx_removevip <nick or #authid> (Works if the player isn't online too but with Case Sensitive so you have to put the exact nickname)
 
