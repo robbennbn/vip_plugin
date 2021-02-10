@@ -29,7 +29,7 @@ You can configure your VIP System from configs/vip_config.cfg
 
 1.0.2 - Added VIP Config file
 
-1.0.3 - Added VIP Remove after X days (ex: if you want to give vip for 1 day or 1 month you can and the vip will be automatically removed after the date)
+1.0.3 - Added VIP Remove after X days (ex: if you want to give vip for 1 day or 1 month you can and the vip will automatically remove it after the date)
 
 # Contact
 
