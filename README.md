@@ -39,7 +39,7 @@ Steam: https://steamcommunity.com/id/weenv2/
 
 # Commands
 
-amx_addvip <nick or #authid> <type of vip> <days 0 = permanent>
+amx_addvip <nick or #authid> < type of vip > <days 0 = permanent>
   
 amx_removevip <nick or #authid> (Works if the player isn't online too but with Case Sensitive so you have to put the exact nickname)
 
