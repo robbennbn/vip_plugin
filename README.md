@@ -21,6 +21,10 @@ You can configure your VIP System from configs/vip_config.cfg
 
 **vip_system_italia.amxx** made for ITALIA.AREA-GAMES.RO #DKOne
 
+**vip_system_raul.amxx** made for CS.BLUEGAME.RO #Bulibasa
+
+**vip_system_neamt.amxx** made for NEAMT.DUAL-GAMING.RO #RaiN
+
 # Updates
 
 1.0 - Created VIP System
