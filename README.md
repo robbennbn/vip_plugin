@@ -17,8 +17,6 @@ You can configure your VIP System from configs/vip_config.cfg
 
 **vip_system_cs.amxx** made for CS.AREA-GAMES.RO #Biban
 
-**vip_system_ardeal.amxx** made for ARDEAL.LEAGUECS.RO #Chowder
-
 **vip_system_italia.amxx** made for ITALIA.AREA-GAMES.RO #DKOne
 
 **vip_system_raul.amxx** made for CS.BLUEGAME.RO #Bulibasa
